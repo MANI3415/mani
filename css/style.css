@@ -1,0 +1,57 @@
+#para{
+
+	background-color: yellow;
+
+	color: green;
+
+}
+
+.para{
+
+	background-color: #ddd;
+
+	color: green;
+
+}
+
+#paragraph{
+
+	background-color: yellow;
+
+	color: green;
+
+}
+.first,.second,.third,.fourth{
+
+	border: 1px solid #000;
+
+	margin: 1px;
+
+	width: 400px;
+
+	text-align: center;
+
+}
+img{
+	width: 50px;
+	padding: 5px;
+
+}
+.parent{
+	display: flex;
+	flex-direction: row-reverse;
+}
+@media screen and (max-width: 425px){
+	.parent{
+		flex-direction: column;
+	}
+}
+.parent{
+	flex-direction: row-reverse;
+	justify-content: space-between;
+}
+.first,.second,.third,.fourth{
+	background-color: #ddd;
+	border-radius: 20px;
+	width: 300px;
+}

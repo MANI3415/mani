@@ -1,0 +1,46 @@
+
+.left{
+	border: 2px solid #000;
+
+	margin: 1px;
+
+	width: 450px;
+
+	text-align: center;
+
+	border-radius: 10px;
+
+}
+.right{
+	border: 2px solid #000;
+
+	margin: 1px;
+
+	width: 800px;
+
+	text-align: center;
+
+	border-radius: 10px;
+
+}
+.first,.second,.third{
+	border: 1px solid #000;
+	border-radius: 10px;
+}
+.one,.two,.three,.four{
+	border: 1px solid #000;
+	border-radius: 10px;
+}
+.parent{
+	display: flex;
+}
+/*media queiries for mobile vew*/
+@media screen and (max-width: 425px){
+.parent{
+	display: flex;
+}
+}
+/*tablet media queiries*/
+@media screen and (min-width: 426px) and (max-width: 768px){
+	
+}
