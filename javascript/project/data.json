@@ -1,0 +1,89 @@
+{
+
+	"details":{
+
+		"name":"Manikanta",
+
+		"email":"ballamanikanta3@gmail.com",
+
+		"number":"7396226854",
+
+		"Address":"kakinada"
+
+	},
+
+	"careerobjective":{
+
+		"info":"To become software developer"
+
+	},
+
+	"eduactionalqualification":[
+
+{
+
+	"institute":"Adarsh college of engineering",
+
+	"degree":"B.tech",
+
+	"passoutyear":"2019",
+
+	"percentage":"75%"
+
+},
+
+{
+
+	"institute":"v.v.s junior college",
+
+	"degree":"Intermediate",
+
+     "passoutyear":"2015",
+
+	"percentage":"81.2%"
+
+},
+
+{
+
+	"institute":"z.p.p high school",
+
+	"degree":"SSC",
+
+	"passoutyear":"2013",
+
+	"percentage":"87%"
+
+}
+
+	],
+
+
+
+	"techinicalskills":[{
+
+		"title":"Programming language",
+
+		"info":["c,c++,java,R,python"]
+
+	},
+
+	{
+
+		"title":"design softwares",
+
+		"info":["Auto Cad,Catia V5,Nx,Creo,Solid Edge"]
+
+	},
+
+	{
+
+		"title":"Operating system",
+
+		"info":["windows,linux,Ubuntu,DOS"]
+
+	}
+
+]
+
+}
